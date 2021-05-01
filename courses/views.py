@@ -7,7 +7,7 @@ from courses.models import Course
 
 def all_courses(request):
     queryset = Course.objects.select_related("author").all()
-    # queryset = Course.objects.all()
+    # queryset = Course.objects.all()  # inefficient database query
 
     courses = []
 
