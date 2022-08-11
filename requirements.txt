@@ -1,4 +1,4 @@
-Django==3.2
+Django==3.2.15
 
 Faker==8.1.2
 nplusone==1.0.0
