@@ -136,3 +136,6 @@ LOGGING = {
         "debug": {"handlers": ["console"], "level": "DEBUG",},
     },
 }
+
+
+DEFAULT_AUTO_FIELD = "django.db.models.AutoField"

@@ -2,7 +2,7 @@
 
 ## Want to learn how to build this project?
 
-Check out the [blog post](https://testdriven.io/blog/django-performance-testing).
+Check out the [article](https://testdriven.io/blog/django-performance-testing).
 
 ## Want to use this project?
 

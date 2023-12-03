@@ -1,5 +1,5 @@
-Django==3.2
+Django==4.2.7
 
-Faker==8.1.2
+Faker==20.1.0
 nplusone==1.0.0
-pytest-django==4.2.0
+pytest-django==4.7.0
